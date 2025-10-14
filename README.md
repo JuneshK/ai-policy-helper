@@ -58,12 +58,16 @@ Make sure you have the following installed on your machine:
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) (Docker Desktop)
 
+
+
 **Cloning the Repository**
 
 ```bash
 git clone https://github.com/JuneshK/ai-policy-helper-starter-pack.git
 cd ai-policy-helper-starter-pack
 ```
+
+
 
 **Set Up Environment Variables**
 
@@ -86,11 +90,16 @@ NEXT_PUBLIC_API_BASE=http://localhost:8000
 
 Replace the placeholder values with your credentials. You can get these by signing up at: [**OpenAI API**](https://openai.com/index/openai-api/).
 
+
+
+
 **Running the Project**
 
 ```bash
 docker-compose up --build
 ```
+
+
 
 ## 🔧 Running the tests <a name = "tests"></a>
 Explain how to run the automated tests for this system.
