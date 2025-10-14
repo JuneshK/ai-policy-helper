@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Interview Assessment From ARRIVO 
     <br> 
 </p>
 
@@ -23,7 +23,7 @@
 - [Reference](#reference)
 
 ## 🧐 Introduction <a name = "introduction"></a>
-Built with React Native for handling the user interface , Google Maps for rendering maps with directions , Stripe for handling the payments . This project does use a serverless Postgres for managing databases , and styled with TailwindCSS , Ryde is a a seamless application that can help users book a ride that can get them from point A to point B. The primary goal is to learn fullstack mobile application to showcase the developer's skills that can create an impact . 
+I was given a task by ARRIVO a startup company to build a RAG AI Policy Helper . I was given all of the codebase and folder structure my task was to polish the UI&UX , test the backend , refactor the codebase with clean and efficient code . This project will give citation 
 
 ## 🏁 Features <a name = "features"></a>
 
@@ -35,27 +35,6 @@ Built with React Native for handling the user interface , Google Maps for render
 
 🛡️ Authorization – Role-based secure access control.
 
-🗺️ Home Screen with Live Location & Google Maps – Real-time location tracking with markers.
-
-📋 Recent Rides – Quickly view your latest rides.
-
-🔎 Google Places Autocomplete – Search any place worldwide with autocomplete suggestions.
-
-🚗 Find Rides – Search for rides by entering From and To locations.
-
-📍 Select Rides from Map – Choose available cars nearby directly from the map.
-
-📑 Confirm Ride with Detailed Info – View ride details including pickup time and fare.
-
-💳 Stripe Payments – Pay securely with cards or other supported methods.
-
-✅ Create Rides After Payment – Confirm bookings only after successful payment.
-
-👤 Profile Management – Update and manage your personal details.
-
-📜 Ride History – Review all past bookings.
-
-📱 Cross-Platform – Fully responsive on Android and iOS.
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -110,8 +89,8 @@ I use Heroku to deploy this web-app
 - [QDrant](https://qdrant.tech/) - Database
 - [Next.js](https://reactnative.dev/) - Web Framework
 - [TailwindCSS](https://tailwindcss.com/) - CSS Framework
-- [Python] - Backend Language
-- [Typescript] - Frontend Language
+- [Python](https://www.python.org/) - Backend Language
+- [Typescript](https://www.typescriptlang.org/docs/) - Frontend Language
 
 
 ## ✍️ Authors <a name = "authors"></a>
@@ -122,3 +101,5 @@ I use Heroku to deploy this web-app
 - Thanks to Arrivo for this project and giving me this oppurtunity to work on this project
   
 ## 🎉 References<a name = "reference"></a>
+- [TailwindCSS](https://tailwindcss.com/) - How to Import Tailwind on Next.js
+- 
