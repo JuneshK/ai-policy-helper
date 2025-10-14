@@ -4,16 +4,6 @@
 
 <h3 align="center">AI Policy </h3>
 
-<div align="center">
-
-  
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/JuneshK/uber-clone/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/JuneshK/uber-clone/pulls)
-  ![Expo](https://img.shields.io/badge/Expo-49.0.0-blue)
-  ![React Native](https://img.shields.io/badge/React%20Native-0.79-brightgreen)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
 
 ---
 
@@ -117,21 +107,18 @@ Add notes about how to use the system.
 I use Heroku to deploy this web-app
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [PostgreSQL](https://www.postgresql.org/) - Database
-- [Expo Go](https://expo.dev/go) - Platform for Android and IOS
-- [React Native](https://reactnative.dev/) - Web Framework
-- [Zustand](https://zustand.docs.pmnd.rs/getting-started/introduction) - State Management
-- [Postman](https://www.postman.com/) - API Management
+- [QDrant](https://qdrant.tech/) - Database
+- [Next.js](https://reactnative.dev/) - Web Framework
 - [TailwindCSS](https://tailwindcss.com/) - CSS Framework
-- [Google Maps](https://www.google.com/maps) - Map
-- [Cleark](https://clerk.com/) - User and Authentication Management
-- [Stripe](https://stripe.com/en-my) - Payment Platform 
+- [Python] - Backend Language
+- [Typescript] - Frontend Language
+
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@JavascriptMastery](https://github.com/adrianhajdin) - Idea & Initial work
+- Arrivo 
 - Myself
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Thanks to JavascriptMastery for this idea , but i made few changes in this so i can call it mine.
+- Thanks to Arrivo for this project and giving me this oppurtunity to work on this project
   
 ## 🎉 References<a name = "reference"></a>
