@@ -49,45 +49,20 @@ I was given a task by ARRIVO a startup company to build a RAG AI Policy Helper .
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
-### Prerequisites
-What things you need to install the software and how to install them.
+**Prerequisites**
 
-```
-Give examples
-```
+Make sure you have the following installed on your machine:
 
-### Installing
-A step by step series of examples that tell you how to get a development env running.
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/) (Docker Desktop)
 
-Say what the step will be
+**Cloning the Repository**
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-Explain what these tests test and why
-
-```
-Give an example
+```bash
+git clone https://github.com/JuneshK/ai-policy-helper-starter-pack.git
+cd ai-policy-helper-starter-pack
 ```
 
 **Set Up Environment Variables**
@@ -109,7 +84,30 @@ CHUNK_OVERLAP=80
 NEXT_PUBLIC_API_BASE=http://localhost:8000
 ```
 
-Replace the placeholder values with your credentials. You can get these by signing up at: [**OpenAI**](https://openai.com/index/openai-api/).
+Replace the placeholder values with your credentials. You can get these by signing up at: [**OpenAI API**](https://openai.com/index/openai-api/).
+
+**Running the Project**
+
+```bash
+docker-compose up --build
+```
+
+## 🔧 Running the tests <a name = "tests"></a>
+Explain how to run the automated tests for this system.
+
+### Break down into end to end tests
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+Explain what these tests test and why
+
+```
+Give an example
+```
 
 ## 📁 Project Structure
 
