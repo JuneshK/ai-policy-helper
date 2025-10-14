@@ -4,18 +4,24 @@
     </a>
   <br />
 
+  <div>
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6"/>
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white">
+
+  </div>
+
 <p align="center">
  
 </p>
 
 <h3 align="center">AI Policy </h3>
-
-
----
-
 <p align="center"> Interview Assessment From ARRIVO 
     <br> 
 </p>
+
+---
 
 ## 📝 Table of Contents
 - [Introduction](#introduction)
