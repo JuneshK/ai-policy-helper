@@ -99,8 +99,8 @@ Replace the placeholder values with your credentials. You can get these by signi
 docker-compose up --build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the Frontend < br />
-Open [http://localhost:8000/docs](http://localhost:8000/docs) in your browser to view the Backend < br />
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the Frontend <br>
+Open [http://localhost:8000/docs](http://localhost:8000/docs) in your browser to view the Backend <br>
 Open [http://localhost:6333](http://localhost:6333) in your browser to view the Database
 
 
