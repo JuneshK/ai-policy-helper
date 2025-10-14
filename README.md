@@ -79,8 +79,65 @@ Explain what these tests test and why
 Give an example
 ```
 
+**Set Up Environment Variables**
+
+Create a new file named `.env` in the root of your project and add the following content:
+
+```env
+# Backend
+EMBEDDING_MODEL=local-384
+LLM_PROVIDER=stub           # options: stub | openai | ollama
+OPENAI_API_KEY=        # if using OpenAI, set this
+OLLAMA_HOST=http://ollama:11434
+VECTOR_STORE=qdrant         # qdrant | memory
+COLLECTION_NAME=policy_helper
+CHUNK_SIZE=700
+CHUNK_OVERLAP=80
+
+# Frontend
+NEXT_PUBLIC_API_BASE=http://localhost:8000
+```
+
+Replace the placeholder values with your credentials. You can get these by signing up at: [**OpenAI**](https://openai.com/index/openai-api/).
+
+## 📁 Project Structure
+
+```
+ai-policy-helper/
+├─ backend/
+│  ├─ app/
+│  │  ├─ main.py          # FastAPI app + endpoints
+│  │  ├─ settings.py      # config/env
+│  │  ├─ rag.py           # embeddings, vector store, retrieval, generation
+│  │  ├─ models.py        # pydantic models
+│  │  ├─ ingest.py        # doc loader & chunker
+│  │  ├─ __init__.py
+│  │  └─ tests/
+│  │     ├─ conftest.py
+│  │     └─ test_api.py
+│  ├─ requirements.txt
+│  └─ Dockerfile
+├─ frontend/
+│  ├─ app/
+│  │  ├─ page.tsx         # chat UI
+│  │  ├─ layout.tsx
+│  │  └─ globals.css
+│  ├─ components/
+│  │  ├─ Chat.tsx
+│  │  └─ AdminPanel.tsx
+│  ├─ lib/api.ts
+│  ├─ package.json
+│  ├─ tsconfig.json
+│  ├─ next.config.js
+│  └─ Dockerfile
+├─ data/                  # sample policy docs
+├─ docker-compose.yml
+├─ Makefile
+└─ .env.example
+```
+
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+-[Youtube] - Link to watch the demo of this project
 
 ## 🚀 Deployment <a name = "deployment"></a>
 I use Heroku to deploy this web-app
