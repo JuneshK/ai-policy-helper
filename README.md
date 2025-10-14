@@ -38,13 +38,13 @@ I was given a task by ARRIVO a startup company to build a RAG AI Policy Helper .
 
 ## 🏁 Features <a name = "features"></a>
 
-🚀 Onboarding Flow – Seamless user registration and setup process.
+🚀 Ingestion – Ingests policy & product document
 
-🔐 Email & Password Authentication with Verification – Secure login with email verification.
+🔐 Provide Citations – Gives answers with citations title and section
 
-🌐 OAuth with Google – Easy login using Google credentials.
+🌐 Offline mode  – Can run fully offline with stub models and built-in embeddings.
 
-🛡️ Authorization – Role-based secure access control.
+🛡️ Online Mode – Can run fully online with OpenAI API and Ollama
 
 
 ## <a name="quick-start">🤸 Quick Start</a>
@@ -105,21 +105,15 @@ Open [http://localhost:6333](http://localhost:6333) in your browser to view the 
 
 
 ## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
+Explain how to run automated tests for this system.
 
-### Break down into end to end tests
+### Break down into unit tests
 Explain what these tests test and why
 
 ```
 Give an example
 ```
 
-### And coding style tests
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## 📁 Project Structure
 
