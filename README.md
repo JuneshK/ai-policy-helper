@@ -1,4 +1,4 @@
-<div align="center">
+
   <br />
       <img src="ai-policy-helper.png">
     </a>
