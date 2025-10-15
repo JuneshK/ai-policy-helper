@@ -100,7 +100,7 @@ Replace the placeholder values with your credentials. You can get these by signi
 
 
 
-**Running the Project**
+**Running the Project ( Method One)**
 
 ```bash
 docker-compose up --build
@@ -110,8 +110,14 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 Open [http://localhost:8000/docs](http://localhost:8000/docs) in your browser to view the Backend <br>
 Open [http://localhost:6333](http://localhost:6333) in your browser to view the Database <br>
 
+<br>
 
-**Running the Project Alternative ( Run Manually )**<br>
+**Running the Project Alternative ( Method Two )**
+
+```bash
+docker-compose up --build
+```
+
 1.Open Docker Engine<br>
 2. Run Each Container Manually<br>
 3. Open http://localhost:3000 to see the output .
