@@ -47,6 +47,13 @@ I was given a task by ARRIVO a startup company to build a RAG AI Policy Helper .
 🛡️ Online Mode – Can run fully online with OpenAI API and Ollama
 
 
+##  Software Architecture <a name = "Software Architecture"></a>
+
+```
+- [Google Docs](https://docs.google.com/document/d/16Oh6VlEyygfH_A7lSQWhes0lK2TtUh-wg_njnJ9LTnQ/edit?usp=sharing) - View file to see the System Architecture 
+
+```
+
 ## <a name="quick-start">🤸 Quick Start</a>
 
 **Prerequisites**
@@ -174,4 +181,5 @@ I use Heroku to deploy this web-app
   
 ## 🎉 References<a name = "reference"></a>
 - [TailwindCSS](https://tailwindcss.com/) - How to Import Tailwind on Next.js
-- 
+- [HelloInterview](https://www.hellointerview.com/learn/system-design/in-a-hurry/delivery) - System Design
+  
