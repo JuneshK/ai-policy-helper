@@ -111,7 +111,7 @@ Open [http://localhost:8000/docs](http://localhost:8000/docs) in your browser to
 Open [http://localhost:6333](http://localhost:6333) in your browser to view the Database <br>
 
 
-**Running the Project Alternative ( Run Manually )**
+**Running the Project Alternative ( Run Manually )**<br>
 1.Open Docker Engine<br>
 2. Run Each Container Manually<br>
 3. Open http://localhost:3000 to see the output .
