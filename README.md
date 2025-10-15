@@ -47,7 +47,7 @@ I was given a task by ARRIVO a startup company to build a RAG AI Policy Helper .
 🛡️ Online Mode – Can run fully online with OpenAI API and Ollama
 
 
-##  Software Architecture <a name = "Software Architecture"></a>
+##  🚀 Software Architecture <a name = "Software Architecture"></a>
 
 
 - [Google Docs](https://docs.google.com/document/d/16Oh6VlEyygfH_A7lSQWhes0lK2TtUh-wg_njnJ9LTnQ/edit?usp=sharing) - View file to see the System Architecture 
@@ -167,8 +167,6 @@ ai-policy-helper/
 ## 🎈 Demo Video <a name="demo-video"></a>
 -[Youtube] - Link to watch the demo of this project
 
-## 🚀 Deployment <a name = "deployment"></a>
-I use Heroku to deploy this web-app
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [QDrant](https://qdrant.tech/) - Database
