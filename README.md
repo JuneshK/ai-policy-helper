@@ -108,12 +108,12 @@ docker-compose up --build
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the Frontend <br>
 Open [http://localhost:8000/docs](http://localhost:8000/docs) in your browser to view the Backend <br>
-Open [http://localhost:6333](http://localhost:6333) in your browser to view the Database
+Open [http://localhost:6333](http://localhost:6333) in your browser to view the Database <br>
 
 
 **Running the Project Alternative ( Run Manually )**
-1.Open Docker Engine
-2. Run Each Container Manually 
+1.Open Docker Engine<br>
+2. Run Each Container Manually<br>
 3. Open http://localhost:3000 to see the output .
 
 
