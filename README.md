@@ -109,6 +109,8 @@ docker-compose up --build
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the Frontend <br>
 Open [http://localhost:8000/docs](http://localhost:8000/docs) in your browser to view the Backend <br>
 Open [http://localhost:6333](http://localhost:6333) in your browser to view the Database <br>
+<small>⚙️ Note:The provided docker-compose setup fails due to issues with the Docker backend and connecting to the Qdrant database.
+As an alternative, I have implemented a manual run method for the project, which successfully starts all services and allows full functionality.</small>
 
 <br>
 
