@@ -119,6 +119,7 @@ docker-compose up --build
 ```
 
 1.Open Docker Engine<br>
+ <img src="docker_engine.png"  width="200" height="200">
 2. Run Each Container Manually<br>
 3. Open http://localhost:3000 to see the output .
 
